@@ -1,0 +1,7 @@
+SELECT DISTINCT Name FROM Artist;
+
+SELECT * FROM Invoice WHERE BillingCountry = 'Germany';
+
+SELECT COUNT (*) FROM Album;
+
+SELECT COUNT (*) FROM Customer WHERE Country = 'France';
